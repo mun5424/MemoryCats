@@ -1,0 +1,19 @@
+.avatar {
+    background: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.863);
+    height: 170px;
+    width: 170px;
+  }
+
+  li { 
+    font-size: 1.5em;
+  }
+
+  #scores, #status {
+      padding: 10px;
+  }
+
+  .navbar-brand {
+    font-size: 1.5em;
+     padding-top: 15px;
+  }
