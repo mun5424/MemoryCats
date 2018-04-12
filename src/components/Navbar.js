@@ -1,7 +1,6 @@
 import React from "react";
 import "./Avatar.css";
 
-
 const Navbar = props => (
   <nav className="navbar navbar-default">
     <div className="container-fluid">

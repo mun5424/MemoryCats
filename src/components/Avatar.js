@@ -1,8 +1,6 @@
 import React from "react";
 import "./Avatar.css";
 
-// Calculator renders the Math component 4 times with different props
-
 function shuffleAndClick(props) {
     props.shuffleCats(); 
     props.clickedCat(props.id);
